@@ -1,0 +1,10 @@
+requested_name,original_gbif_name,original_match_type,original_status,returned_taxon_key,accepted_key,accepted_name,accepted_status,rank
+Mops johorensis,"Mops Lesson, 1842",HIGHERRANK,ACCEPTED,,,,,GENUS
+Heteromys adspersus,"Heteromys adspersus (Peters, 1874)",EXACT,SYNONYM,2439505.0,2439505.0,"Liomys adspersus (Peters, 1874)",ACCEPTED,SPECIES
+Pseudocheirus occidentalis,"Pseudocheirus occidentalis (Thomas, 1888)",EXACT,SYNONYM,2440062.0,2440062.0,"Pseudocheirus peregrinus (Boddaert, 1785)",ACCEPTED,SPECIES
+Porcula salvania,"Porcula salvania Hodgson, 1847",EXACT,SYNONYM,2441220.0,2441220.0,"Sus salvanius (Hodgson, 1847)",ACCEPTED,SPECIES
+Bradypus crinitus,"Bradypus crinitus Gray, 1850",EXACT,SYNONYM,2436351.0,2436351.0,"Bradypus torquatus Illiger, 1811",ACCEPTED,SPECIES
+Myotis aurascens,"Myotis aurascens Kuzyakin, 1935",EXACT,SYNONYM,4266349.0,4266349.0,"Myotis davidii (Peters, 1869)",ACCEPTED,SPECIES
+Erethizon dorsatum,"Erethizon dorsatus (Linnaeus, 1758)",FUZZY,ACCEPTED,6066824.0,6066824.0,"Erethizon dorsatus (Linnaeus, 1758)",ACCEPTED,SPECIES
+Platyrrhinus nigellus,"Platyrrhinus nigellus (Gardner & Carter, 1972)",EXACT,SYNONYM,5218768.0,5218768.0,"Platyrrhinus umbratus (Lyon, 1902)",ACCEPTED,SPECIES
+Lophostoma silvicolum,"Lophostoma silvicola d'Orbigny, 1836",FUZZY,ACCEPTED,5706810.0,5706810.0,"Lophostoma silvicola d'Orbigny, 1836",ACCEPTED,SPECIES

@@ -1,0 +1,92 @@
+requested_name,species_id,risk_target,category,gbif_name,taxon_key,match_type,rank,status,confidence,success,error,occurrence_count,high_quality_count,median_latitude,median_longitude,median_uncertainty_m
+Petrodromus tetradactylus,42679,0,LC,"Petrodromus tetradactylus Peters, 1846",2440858,EXACT,SPECIES,ACCEPTED,99,True,,100,40,-5.095206,39.490213999999995,168.0
+Nyctophilus holtorum,218360290,0,LC,"Nyctophilus holtorum Parnaby, King & Eldridge, 2021",11199407,EXACT,SPECIES,ACCEPTED,99,True,,88,24,-34.276111,116.07493,1000.0
+Miniopterus maghrebensis,81633156,0,NT,"Miniopterus maghrebensis Puechmaille, Allegrini, Benda, Bilgin, Ibañez & Juste, 2014",8126077,EXACT,SPECIES,ACCEPTED,99,True,,22,14,32.0314355,-3.788304,81.0
+Lemur catta,11496,1,EN,"Lemur catta Linnaeus, 1758",2436412,EXACT,SPECIES,ACCEPTED,99,True,,100,0,-21.9497695,46.8713585,30338.0
+Dipodomys gravipes,6676,1,CR,"Dipodomys gravipes Huey, 1925",2439544,EXACT,SPECIES,ACCEPTED,99,True,,100,77,30.432628,-115.93,8309.0
+Presbytis chrysomelas,39803,1,CR,"Presbytis chrysomelas (Müller, 1838)",7262008,EXACT,SPECIES,ACCEPTED,99,True,,41,3,2.298212,111.826692,31438.0
+Alouatta guariba,39916,1,VU,"Alouatta guariba (Humboldt, 1812)",7262055,EXACT,SPECIES,ACCEPTED,99,True,,100,84,-23.639512,-46.62424,48.5
+Meriones crassus,13161,0,LC,"Meriones crassus Sundevall, 1842",5219724,EXACT,SPECIES,ACCEPTED,99,True,,100,15,29.992240000000002,34.944372,3783.5
+Mesocapromys nanus,13217,1,CR,"Mesocapromys nanus (G.M.Allen, 1917)",2437642,EXACT,SPECIES,ACCEPTED,99,True,,23,18,22.2883,-80.5063,1000.0
+Marmota vancouverensis,12828,1,CR,"Marmota vancouverensis Swarth, 1911",2437365,EXACT,SPECIES,ACCEPTED,99,True,,100,68,49.7439595,-125.298897,260.0
+Eulemur rufus,8209,1,VU,"Eulemur rufus (Audebert, 1799)",4266934,EXACT,SPECIES,ACCEPTED,99,True,,77,0,-19.095453,44.9,30615.0
+Neofelis nebulosa,14519,1,VU,"Neofelis nebulosa (Griffith, 1821)",2435079,EXACT,SPECIES,ACCEPTED,99,True,,100,9,16.0036445,100.49813549999999,30318.0
+Reithrodon typicus,136583,0,LC,"Reithrodon typicus Waterhouse, 1837",4265080,EXACT,SPECIES,ACCEPTED,99,True,,13,8,-32.900002,-55.049999,73.71
+Lagothrix flavicauda,39924,1,CR,"Lagothrix flavicauda (Humboldt, 1812)",2436657,EXACT,SPECIES,ACCEPTED,99,True,,67,2,-5.811028,-77.786667,31373.0
+Perameles nasuta,40554,0,LC,"Perameles nasuta É.Geoffroy Saint-Hilaire, 1804",5219457,EXACT,SPECIES,ACCEPTED,99,True,,100,77,-33.673229,151.27832,6.5
+Eonycteris robusta,136768,1,VU,"Eonycteris robusta Miller, 1913",4265634,EXACT,SPECIES,ACCEPTED,99,True,,100,42,12.805724999999999,123.116667,500.0
+Notiosorex evotis,136273,0,LC,"Notiosorex evotis (Coues, 1877)",2435810,EXACT,SPECIES,ACCEPTED,99,True,,65,58,23.240556,-106.383889,18.13
+Ozimops lumsdenae,71531227,0,LC,"Ozimops lumsdenae (Reardon, McKenzie & Adams, 2014)",11375764,EXACT,SPECIES,ACCEPTED,99,True,,100,58,-23.365295,145.00723,31.0
+Pteropus temminckii,18762,1,VU,"Pteropus temminckii Peters, 1867",5706990,EXACT,SPECIES,ACCEPTED,99,True,,15,0,-4.330386,152.466666,25000.0
+Eliurus minor,7621,0,LC,"Eliurus minor Forsyth Major, 1896",2438527,EXACT,SPECIES,ACCEPTED,99,True,,100,0,-18.305,47.317239,
+Pteropus faunulus,18723,1,EN,"Pteropus faunulus Miller, 1902",5218660,EXACT,SPECIES,ACCEPTED,99,True,,1,0,7.0,93.0,
+Hapalemur meridionalis,136384,1,VU,"Hapalemur meridionalis Warter, Randrianasolo, Dutrillaux & Rumpler, 1987",5786406,EXACT,SPECIES,ACCEPTED,99,True,,10,0,-24.9011115,46.8741665,30025.0
+Vulpes macrotis,41587,0,LC,"Vulpes macrotis Merriam, 1888",5219311,EXACT,SPECIES,ACCEPTED,99,True,,100,44,35.20557,-117.278379,822.0
+Lycalopex fulvipes,41586,1,EN,"Lycalopex fulvipes (Martin, 1837)",2434330,EXACT,SPECIES,ACCEPTED,99,True,,100,65,-42.470762,-74.172339,1000.0
+Ctenomys bonettoi,5799,1,EN,"Ctenomys bonettoi Contreras & Berry, 1982",2439641,EXACT,SPECIES,ACCEPTED,99,True,,47,1,-26.78,-59.55,6980.0
+Neotoma macrotis,14597,0,LC,"Neotoma macrotis Thomas, 1893",4265036,EXACT,SPECIES,ACCEPTED,99,True,,100,86,35.02206,-118.0858015,100.0
+Simias concolor,20229,1,CR,"Simias concolor Miller, 1903",4267130,EXACT,SPECIES,ACCEPTED,99,True,,16,1,-2.2910684999999997,99.7288145,31447.0
+Isoodon macrourus,40552,0,LC,"Isoodon macrourus (Gould, 1842)",2435304,EXACT,SPECIES,ACCEPTED,99,True,,100,79,-27.515138,152.205265,12.5
+Bradypus pygmaeus,61925,1,CR,"Bradypus pygmaeus Anderson & Handley, 2001",2436352,EXACT,SPECIES,ACCEPTED,99,True,,13,2,9.082525,-81.544621,31254.0
+Mesomys occultus,136284,0,LC,"Mesomys occultus Patton, da Silva & Malcolm, 2000",5706490,EXACT,SPECIES,ACCEPTED,99,True,,4,4,-3.283333,-66.233333,500.0
+Cephalorhynchus hectori,4162,1,EN,"Cephalorhynchus hectori (P.-J.van Bénéden, 1881)",5220033,EXACT,SPECIES,ACCEPTED,99,True,,100,74,-43.821351,172.9331105,207.0
+Platyrrhinus ismaeli,136232,0,NT,"Platyrrhinus ismaeli Velazco, 2005",5787383,EXACT,SPECIES,ACCEPTED,99,True,,88,23,1.797136,-75.98011,9.11
+Hyaena hyaena,10274,0,NT,"Hyaena hyaena (Linnaeus, 1758)",5218777,EXACT,SPECIES,ACCEPTED,99,True,,100,6,31.259083,35.049256,29330.0
+Oxymycterus rufus,15792,0,LC,"Oxymycterus rufus (Fischer, 1814)",2438938,EXACT,SPECIES,ACCEPTED,99,True,,100,36,-31.2085085,-62.4147095,122.0
+Nomascus siki,39896,1,CR,"Nomascus siki (Delacour, 1951)",4267266,EXACT,SPECIES,ACCEPTED,99,True,,14,0,17.4895445,106.137616,30732.0
+Niviventer hinpoon,14821,1,EN,"Niviventer hinpoon (J.T.Marshall Jr., 1976)",2439055,EXACT,SPECIES,ACCEPTED,99,True,,13,0,13.662228,101.086754,
+Rattus stoicus,19365,1,VU,"Rattus stoicus (Miller, 1902)",2439271,EXACT,SPECIES,ACCEPTED,99,True,,10,6,10.766667,92.616667,1000.0
+Leopardus guttulus,54010476,1,VU,"Leopardus guttulus (Hensel, 1872)",7740958,EXACT,SPECIES,ACCEPTED,99,True,,100,0,-23.830201,-46.5890095,30133.0
+Scotonycteris zenkeri,84464403,0,NT,"Scotonycteris zenkeri Matschie, 1894",2432778,EXACT,SPECIES,ACCEPTED,99,True,,100,7,5.3365279999999995,-0.85,10000.0
+Hipposideros alongensis,80224880,1,VU,"Hipposideros alongensis Bourret, 1942",7641124,EXACT,SPECIES,ACCEPTED,99,True,,40,31,21.66666,103.066658,1.25
+Microcebus bongolavensis,136537,1,EN,"Microcebus bongolavensis Olivieri, Zimmermann, Randrianambinina, Rassoloharijaona, Rakotondravony, Gsuchanski et al., 2006",5786012,EXACT,SPECIES,ACCEPTED,99,True,,2,0,-19.041636,46.684937,
+Neophocaena phocaenoides,198920,1,VU,"Neophocaena phocaenoides (G.Cuvier, 1829)",2440656,EXACT,SPECIES,ACCEPTED,99,True,,100,50,12.6954575,107.082648,500.0
+Zapus princeps,42614,0,LC,"Zapus princeps J.A.Allen, 1893",2439473,EXACT,SPECIES,ACCEPTED,99,True,,100,49,46.0640805,-112.955309,4.0
+Indri indri,10826,1,CR,"Indri indri (Gmelin, 1788)",2436432,EXACT,SPECIES,ACCEPTED,99,True,,100,1,-18.86205,48.4900955,30615.0
+Meriones sacramenti,13168,1,VU,"Meriones sacramenti Thomas, 1922",5219714,EXACT,SPECIES,ACCEPTED,99,True,,100,0,31.768014,34.643299999999996,29199.0
+Rhynchomeles prattorum,19711,1,EN,"Rhynchomeles prattorum Thomas, 1920",2435315,EXACT,SPECIES,ACCEPTED,99,True,,0,0,,,
+Ateles fusciceps,135446,1,EN,"Ateles fusciceps Gray, 1866",2436641,EXACT,SPECIES,ACCEPTED,99,True,,100,0,7.694941,-78.10526250000001,31451.0
+Crocidura lanosa,5569,1,VU,"Crocidura lanosa Heim de Balsac, 1968",2435559,EXACT,SPECIES,ACCEPTED,99,True,,16,0,-2.59165,28.936695,25140.0
+Dipodomys stephensi,6682,1,VU,"Dipodomys stephensi (Merriam, 1907)",2439542,EXACT,SPECIES,ACCEPTED,99,True,,100,81,33.84,-117.252674,5552.0
+Nomascus hainanus,41643,1,CR,"Nomascus hainanus (Thomas, 1892)",4267273,EXACT,SPECIES,ACCEPTED,99,True,,5,0,19.0,109.5,30598.0
+Pipistrellus pygmaeus,136649,0,LC,"Pipistrellus pygmaeus (Leach, 1825)",5707150,EXACT,SPECIES,ACCEPTED,99,True,,100,99,59.465265,16.32815,5.0
+Cheirogaleus crossleyi,163021377,1,VU,"Cheirogaleus crossleyi A.Grandidier, 1870",4266968,EXACT,SPECIES,ACCEPTED,99,True,,80,49,-18.9340895,48.416079499999995,461.0
+Atlantoxerus getulus,2358,0,LC,"Atlantoxerus getulus (Linnaeus, 1758)",2437470,EXACT,SPECIES,ACCEPTED,99,True,,100,70,28.3995635,-14.061648,8.5
+Pagophilus groenlandicus,41671,0,NT,"Pagophilus groenlandicus (Erxleben, 1777)",2434801,EXACT,SPECIES,ACCEPTED,99,True,,100,70,71.0612055,-54.274497,488.0
+Crocidura beatus,5597,0,LC,"Crocidura beatus Miller, 1910",2435689,EXACT,SPECIES,ACCEPTED,99,True,,100,71,7.93763,124.84391,500.0
+Eliurus grandidieri,29460,0,LC,"Eliurus grandidieri Carleton & Goodman, 1998",4263421,EXACT,SPECIES,ACCEPTED,99,True,,100,0,-14.433888,49.734722,
+Cynomys parvidens,6090,1,EN,"Cynomys parvidens J.A.Allen, 1905",2437235,EXACT,SPECIES,ACCEPTED,99,True,,100,1,37.714875,-112.1278275,28359.0
+Crocidura silacea,41357,0,LC,"Crocidura silacea Thomas, 1895",2435536,EXACT,SPECIES,ACCEPTED,99,True,,27,3,-15.366667,33.73,11172.5
+Pseudochirulus larvatus,136699,0,LC,"Pseudochirulus larvatus (Förster & Rothschild, 1911)",2440095,EXACT,SPECIES,ACCEPTED,99,True,,17,8,-5.792615,143.972386,148.0
+Avahi unicolor,41579,1,CR,"Avahi unicolor Thalmann & Geissmann, 2000",4267337,EXACT,SPECIES,ACCEPTED,99,True,,1,0,-13.583333,47.95,
+Platyrrhinus infuscus,17571,0,LC,"Platyrrhinus infuscus (Peters, 1880)",5218769,EXACT,SPECIES,ACCEPTED,99,True,,100,30,-0.692805,-73.5625475,62.0
+Thomasomys laniger,96799835,0,LC,"Thomasomys laniger (Thomas, 1895)",2439182,EXACT,SPECIES,ACCEPTED,99,True,,100,0,4.624964,-73.73275,
+Palawanomys furvus,15917,0,LC,"Palawanomys furvus Musser & Newcomb, 1983",2438861,EXACT,SPECIES,ACCEPTED,99,True,,33,0,8.81264,117.66313,
+Chiropodomys major,4682,0,LC,"Chiropodomys major Thomas, 1893",2438395,EXACT,SPECIES,ACCEPTED,99,True,,12,4,6.0,116.69238100000001,50.0
+Crateromys australis,5499,1,EN,"Crateromys australis Musser, Heaney & Rabor, 1985",2438818,EXACT,SPECIES,ACCEPTED,99,True,,1,0,10.35,125.61667,17594.0
+Hipposideros lekaguli,10144,0,NT,"Hipposideros lekaguli Thonglongya & Hill, 1974",5218582,EXACT,SPECIES,ACCEPTED,99,True,,43,1,13.592117,101.940458,31057.0
+Maxomys rajah,12904,1,VU,"Maxomys rajah (Thomas, 1894)",2438847,EXACT,SPECIES,ACCEPTED,99,True,,100,13,2.85,115.8,5217.0
+Oryx gazella,15573,0,LC,"Oryx gazella (Linnaeus, 1758)",5220166,EXACT,SPECIES,ACCEPTED,99,True,,100,79,-24.77435,17.5551825,31.0
+Anoura aequatoris,88109381,0,LC,"Anoura aequatoris (Lönnberg, 1921)",7677336,EXACT,SPECIES,ACCEPTED,99,True,,100,5,4.687167,-75.706389,189.0
+Ochotona alpina,41255,0,LC,"Ochotona alpina (Pallas, 1773)",2437027,EXACT,SPECIES,ACCEPTED,99,True,,100,78,50.3067205,86.5707795,41.0
+Rhinolophus maclaudi,19549,1,EN,"Rhinolophus maclaudi Pousargues, 1897",2432663,EXACT,SPECIES,ACCEPTED,99,True,,21,6,0.15,29.67,13994.0
+Dasypus novemcinctus,268513068,0,LC,"Dasypus novemcinctus Linnaeus, 1758",2440779,EXACT,SPECIES,ACCEPTED,99,True,,100,84,2.06244,-73.1897795,210.0
+Reithrodontomys mexicanus,19411,0,LC,"Reithrodontomys mexicanus (Saussure, 1860)",2437871,EXACT,SPECIES,ACCEPTED,99,True,,100,66,6.4690555,-75.77643549999999,8.0
+Pronolagus crassicaudatus,41293,0,LC,"Pronolagus crassicaudatus (I.Geoffroy, 1832)",2436924,EXACT,SPECIES,ACCEPTED,99,True,,19,7,-30.17165,18.47909,29326.0
+Microcebus mamiratra,136206,1,EN,"Microcebus mamiratra Andriantompohavana, Zaonarivelo, Engberg, Randriamampionona, McGuire, Shore et al., 2006",5786014,EXACT,SPECIES,ACCEPTED,99,True,,27,1,-13.287644,48.296897,31032.0
+Funambulus layardi,8700,1,VU,"Funambulus layardi (Blyth, 1849)",2437244,EXACT,SPECIES,ACCEPTED,99,True,,100,47,6.451187,80.4362385,31337.0
+Trichechus manatus,22103,1,VU,"Trichechus manatus Linnaeus, 1758",2435296,EXACT,SPECIES,ACCEPTED,99,True,,100,0,28.808066,-81.3312765,29558.0
+Myotis fimbriatus,85735587,0,LC,"Myotis fimbriatus (Peters, 1871)",4266430,EXACT,SPECIES,ACCEPTED,99,True,,75,7,23.01295,120.5718,9062.5
+Hipposideros turpis,80224148,1,EN,"Hipposideros turpis Bangs, 1901",5218595,EXACT,SPECIES,ACCEPTED,99,True,,22,2,24.3786435,123.8033495,30090.0
+Desmalopex leucopterus,18731,1,VU,"Desmalopex leucopterus (Temminck, 1853)",8384945,EXACT,SPECIES,ACCEPTED,99,True,,40,4,14.00611,122.93838,500.0
+Melomys bannisteri,136604,1,EN,"Melomys bannisteri Kitchener & Maryanto, 1993",4264959,EXACT,SPECIES,ACCEPTED,99,True,,0,0,,,
+Equus kiang,7953,0,LC,"Equus kiang Moorcroft, 1841",2440887,EXACT,SPECIES,ACCEPTED,99,True,,100,54,34.1773825,93.26808349999999,1426.0
+Macropus giganteus,41513,0,LC,"Macropus giganteus Shaw, 1790",5219981,EXACT,SPECIES,ACCEPTED,99,True,,100,72,-34.910917,149.5554995,22.0
+Praomys misonnei,18117,0,LC,"Praomys misonnei Van der Straeten & Dieterlen, 1987",2438477,EXACT,SPECIES,ACCEPTED,99,True,,100,0,3.39,23.465,
+Hipposideros abae,10109,0,LC,"Hipposideros abae J.A.Allen, 1917",5218580,EXACT,SPECIES,ACCEPTED,99,True,,70,27,7.657782,13.2168335,1000.0
+Hylobates pileatus,10552,1,EN,"Hylobates pileatus Gray, 1861",5219544,EXACT,SPECIES,ACCEPTED,99,True,,100,0,14.233733,101.55543800000001,30968.0
+Lepus yarkandensis,11796,0,NT,"Lepus yarkandensis Günther, 1875",2436787,EXACT,SPECIES,ACCEPTED,99,True,,11,1,40.5,81.72595,27847.0
+Plecturocebus parecis,172274032,0,NT,"Plecturocebus parecis Gusmão, Messias, Carneiro, Schneider, de Alencar, Caluro, Dalponte, Mattos, Ferrari et al., 2019",11187243,EXACT,SPECIES,ACCEPTED,99,True,,1,1,-12.745893,-60.12173,31.0
+Hipposideros demissus,10127,1,EN,"Hipposideros demissus K.Andersen, 1909",5706865,EXACT,SPECIES,ACCEPTED,99,True,,0,0,,,
+Pteronotus quadridens,18710,0,LC,"Pteronotus quadridens (Gundlach, 1840)",5218623,EXACT,SPECIES,ACCEPTED,99,True,,100,24,18.41453,-69.15005500000001,125.0
+Crocidura maquassiensis,5576,0,LC,"Crocidura maquassiensis Roberts, 1946",2435686,EXACT,SPECIES,ACCEPTED,99,True,,2,2,-23.994837,30.525676,10000.0

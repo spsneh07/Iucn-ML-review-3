@@ -1,0 +1,6 @@
+requested_name,gbif_name,taxon_key,match_type,rank,status
+Euryoryzomys lamia,"Euryoryzomys lamia (Thomas, 1901)",5786859,EXACT,SPECIES,ACCEPTED
+Phocarctos hookeri,"Phocarctos hookeri (Gray, 1844)",2433467,EXACT,SPECIES,ACCEPTED
+Arvicola sapidus,"Arvicola sapidus Miller, 1908",2438492,EXACT,SPECIES,ACCEPTED
+Eliomys quercinus,"Eliomys quercinus (Linnaeus, 1766)",2439683,EXACT,SPECIES,ACCEPTED
+Scotophilus collinus,"Scotophilus collinus Sody, 1936",5707087,EXACT,SPECIES,ACCEPTED
